@@ -9,12 +9,12 @@ Blog api created with the use of Django Rest Framework
 - Sqlite3
 
 # Functionality
-___Create, update, get, delete, like posts.___
+___1) Create, update, get, delete, like posts.___
 
-___Create, get, update, delete comments.___
+___2) Create, get, update, delete comments.___
 
-___Follow/Unfollow users.___
+___3) Follow/Unfollow users.___
 
-___Register. Login using jwt tokens.___
+___4) Register. Login using jwt tokens.___
 
-___Update users' profiles.___
+___5) Update users' profiles.___

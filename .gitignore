@@ -1,0 +1,12 @@
+__pycache__/
+
+.idea
+posts/migrations
+accounts/migrations
+followers/migrations
+comments/migrations
+images
+.env
+venv
+main.py
+db.sqlite3

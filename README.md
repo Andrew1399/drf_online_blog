@@ -17,4 +17,4 @@ ___3) Follow/Unfollow users.___
 
 ___4) Register. Login using jwt tokens.___
 
-___5) Update users' profiles.___
+___5)Create profile, update user's profile.___
